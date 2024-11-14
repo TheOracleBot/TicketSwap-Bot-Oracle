@@ -12,7 +12,7 @@ Oracle is an advanced, Discord-based bot built to streamline the ticket-buying p
 
 Pricing details can be found within the Oracle Discord server, linked below. Join now to secure a spot and learn more!
 
-[Join Oracle Discord](https://discord.gg/UNCbQ7MB)
+[Join Oracle Discord](https://discord.gg/ZqGkYstN)
 
 ---
 
