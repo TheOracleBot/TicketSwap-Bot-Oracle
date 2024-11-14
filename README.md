@@ -24,4 +24,4 @@ Want to learn more or try Oracle for yourself? Message us directly or reply belo
 
 Be sure to join the Discord server for early access, exclusive updates, and to reserve your place as one of Oracle’s first users.
 
-[![Oracle Banner](https://github.com/TheOracleBot/TicketSwap-Bot-Oracle/blob/main/banner.png?raw=true)](https://discord.gg/9VzHksvt)
+[![Oracle Banner](https://github.com/TheOracleBot/TicketSwap-Bot-Oracle/blob/main/banner.png?raw=true)](https://discord.gg/ZqGkYstN)
